@@ -8,3 +8,5 @@ tag. From Europa'
 Show the tag:
 2.- $> git show v1.0
 
+For further refe, see:
+https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work
