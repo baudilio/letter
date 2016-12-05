@@ -10,3 +10,6 @@ Show the tag:
 
 For further refe, see:
 https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work
+
+Also see: 
+http://365git.tumblr.com/post/2813251228/adding-a-gpg-public-key-to-a-repository
