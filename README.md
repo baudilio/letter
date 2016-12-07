@@ -19,3 +19,5 @@ Modified the signing key.
 And also learning about
 https://help.github.com/articles/signing-commits-using-gpg/
 
+.gitcong modified to automatically sign all my commits. Is it working?
+
